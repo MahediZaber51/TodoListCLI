@@ -22,3 +22,7 @@ This repository contains a simple command-line interface (CLI) application for m
 ## Contributing
 
 Contributions are welcome! If you find a bug or have an enhancement in mind, please [open an issue](https://github.com/MahediZaber51/TodoListCLI/issues) or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
